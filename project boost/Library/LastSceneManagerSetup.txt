@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Fly Over then Under.unity
+- path: Assets/Scenes/Fly Under.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
